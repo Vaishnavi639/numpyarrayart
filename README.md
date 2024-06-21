@@ -1,11 +1,11 @@
-#Numpy Art
+# Numpy Art
 
 This Python code, designed for use in a Jupyter Notebook, demonstrates how to create a simple yet visually appealing checkerboard artwork using the NumPy library. NumPy's powerful array manipulation capabilities are harnessed to efficiently manage and colorize the canvas.
 
 * If you haven't already, install the required library using pip:
 pip install numpy matplotlib
 
-* Explanation:
+**Explanation:**
 
 - Import the necessary libraries, numpy for array operations and matplotlib.pyplot for plotting the image.
 - Define the desired width and height of the checkerboard image in pixels. Create a NumPy array of size (height, width, 3) and fill it with 255 (white) in each channel (RGB) to represent the background.
@@ -17,7 +17,7 @@ Assign the corresponding color from the colors list to the current square region
 Hide the axes using plt.axis('off') for a more artistic presentation.
 Call plt.show to render the final image.
 
-* Customization:
+**Customization:**
 This code provides a solid foundation. You can easily modify it to experiment with different:
 
 -Canvas sizes: Change width and height to create larger or smaller checkerboards.
