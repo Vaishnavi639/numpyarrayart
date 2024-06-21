@@ -1,3 +1,5 @@
+#Numpy Art
+
 This Python code, designed for use in a Jupyter Notebook, demonstrates how to create a simple yet visually appealing checkerboard artwork using the NumPy library. NumPy's powerful array manipulation capabilities are harnessed to efficiently manage and colorize the canvas.
 
 * If you haven't already, install the required library using pip:
